@@ -1,6 +1,6 @@
 # mBot-A-Maze-ing-Race
-A robot that was calibrated to traverse a maze by responding to colour and frequency cues. Created using mBot (Arduino platform).
-You can read the file A-Maze-ing_Race_Report.pdf to learn more about our project and challenges faced. Images and diagrams are attached on the pdf for better visualization.
+A robot that was calibrated to traverse a maze by responding to colour and frequency cues. Created using mBot (Arduino IDE).
+You can read the file A-Maze-ing_Race_Report.pdf to get comprehensive details and information about our project and challenges faced. Images and diagrams are attached in the pdf for better visualization.
 
 # Feature List
   - Colour Detection
